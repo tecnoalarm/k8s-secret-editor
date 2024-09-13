@@ -1,4 +1,4 @@
 Flask == 2.2.5
 WTForms == 2.1
-Requests == 2.31.0
+Requests == 2.32.0
 PyYAML == 5.4
